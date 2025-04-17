@@ -6,7 +6,7 @@
 
 GitHub Repository contains all the relevant files required to smoothly orchestrate and run the jobs. 
 
-URL  : https://github.com/sahil-2307/Step_function_locally 
+URL  : https://github.com/sahil-2307/Orchestration_Shell_Script_Locally
 
 ```bash
  git clone https://github.com/sahil-2307/Orchestration_Shell_Script_Locally
